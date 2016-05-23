@@ -3,10 +3,14 @@ class Sms(object):
 
     .. note::
 
-        On Android your app needs the SEND_SMS permission in order to
-        send sms messages.
+        On Android your app needs the following permission to achieve desired
+        task.
 
-    .. versionadded:: 1.2.0
+        - SEND_SMS: permission in order to send sms messages.
+
+        - RECEIVE_SMS: Permission to reveive SMS.
+
+        - READ_SMS: Permission to read SMS from the Inbox.
 
     '''
 
