@@ -14,6 +14,9 @@ implement the api in the easiest way, depending on the current platform.
 - on kivy-ios, pyobjus is used
 - on windows/mac/linux, commonly found libraries and programs will be used
 
+[![Coverage Status](https://coveralls.io/repos/kivy/plyer/badge.svg?branch=master)](https://coveralls.io/r/kivy/plyer?branch=master)
+[![Build Status](https://travis-ci.org/kivy/plyer.svg?branch=master)](https://travis-ci.org/kivy/plyer)
+
 Supported APIs
 --------------
 
